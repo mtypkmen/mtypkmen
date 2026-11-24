@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KULLANICI_ADIN" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/LINKEDIN_ADIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:EMAIL_ADRESIN"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mtypkmen" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mtypkmen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:metetvrk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Varsa portfolyo: 
   &nbsp;&nbsp;<a href="https://SITEN.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   -->
@@ -56,11 +56,11 @@ I spent an **Erasmus** exchange at **Universidad de Jaén** in Spain, and I enjo
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KULLANICI_ADIN&theme=github_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtypkmen&theme=github_dark">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtypkmen&theme=github" alt="Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KULLANICI_ADIN&theme=github_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtypkmen&theme=github_dark">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtypkmen&theme=github" alt="Top Languages" />
   </picture>
 </p>
