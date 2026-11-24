@@ -16,11 +16,6 @@
 
 I'm a full-stack developer and Computer Science student based in **İzmir, Turkey**, studying at **Universum International College** in Prishtina, Kosovo. I build web applications end to end with **React / Next.js** on the front and **Node.js / Express**, **Prisma** and **MySQL** on the back.
 
-I spent an **Erasmus** exchange at **Universidad de Jaén** in Spain, and I enjoy working across countries and cultures. Right now I'm focused on building real projects, including community and student-network platforms across the Western Balkans, and looking for a **junior full-stack** role.
-
-**Certificates:** Professional-Level Office Applications (2023) · Web Design (2023)
-**Languages:** Turkish (native) · English (C1 Advanced)
-
 <hr />
 
 ## 🛠️ Tech Stack
