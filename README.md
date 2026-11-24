@@ -57,11 +57,11 @@ I spent an **Erasmus** exchange at **Universidad de Jaén** in Spain, and I enjo
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KULLANICI_ADIN&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KULLANICI_ADIN&theme=github" alt="Stats" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtypkmen&theme=github" alt="Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KULLANICI_ADIN&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KULLANICI_ADIN&theme=github" alt="Top Languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtypkmen&theme=github" alt="Top Languages" />
   </picture>
 </p>
 
