@@ -1,6 +1,6 @@
 <h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Mete</h1>
 <p align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Full+Stack+Developer+%40+Co-Founder+Of+One+Community" alt="Typing subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Full+Stack+Developer+%40+Co+-+Founder+Of+One+Community" alt="Typing subtitle" />
 </p>
 
 <p align="center">
