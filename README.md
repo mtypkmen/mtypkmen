@@ -38,10 +38,11 @@ I'm a full-stack developer and Computer Science student based in **İzmir, Turke
 | [Proje Adı](https://github.com/KULLANICI_ADIN/repo) | Tek cümlelik açıklama | Next.js, Prisma, MySQL |
 -->
 
-| Project | Description | Stack |
+| Project | Description | Link |
 |---|---|---|
-| **Proje 1** | Kısa açıklama | Next.js · Prisma · MySQL |
-| **Proje 2** | Kısa açıklama | React · Node.js · Express |
+| **OneCommunity** | Community platform I'm building in Kosovo | [onecommunity.xx](https://joinonecommunity.com) |
+| **Ankese** | Albanian-language consumer complaint platform, inspired by Şikayetvar | [ankese.com](https://ankese.com) |
+| **Biyomedikaldepo** | Biomedical equipment platform (açıklamayı düzelt) | [biyomedikaldepo.xx](https://SITE_LINKI) |
 
 <hr />
 
